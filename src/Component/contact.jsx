@@ -24,7 +24,7 @@ export const Contactcomponent = () => {
       })
     setStatus("Submit");
     toast.success('Message successfully sent!')
-    // setTimeout(()=>window.location.reload(true),6000)
+    // setTimeout(()=>window.location.reload(true),6000);
 
      
     

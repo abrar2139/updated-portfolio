@@ -26,7 +26,7 @@ export const Homecomponent = () => {
     
   return (
     <div>
-        <div id='home' className='home flex justify-center items-center  text-amber-600 bg-slate-600 h-screen leading-normal' >
+        <div id='home' className='home flex justify-center   text-amber-600 bg-slate-600 h-screen leading-normal' >
           {
            // loading?
     
